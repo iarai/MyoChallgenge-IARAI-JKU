@@ -1,4 +1,4 @@
-# myo challenge - IARAI-JKU
+# MyoChallenge - IARAI-JKU
 This package contains the training code for the [MyoChallenge](https://sites.google.com/view/myochallenge/myochallenge) competition.
 
 ![DieR](./media/die_init_diff100.gif)
