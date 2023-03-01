@@ -1,12 +1,14 @@
 # MyoChallenge - IARAI-JKU
-This package contains the training code for the [MyoChallenge](https://sites.google.com/view/myochallenge/myochallenge) competition.
+This package contains the wining solution for the [MyoChallenge](https://sites.google.com/view/myochallenge/myochallenge) die reorient task. This is adapted from [EvoTorch starter baseline](https://github.com/nnaisense/evotorch-myosuite-starter).
 
 ![DieR](./media/die_init_diff100.gif)
 
+![LeadB](./media/leaderboard.png)
+
 ## Authors
-- Rahul Siripurapu
-- Luis Eduardo Ferro Diez
-- Vihang Patil
+- [Rahul Siripurapu](https://github.com/rahulsiripurapu)
+- [Luis Eduardo Ferro Diez](https://github.com/Ohtar10)
+- [Vihang Patil](https://github.com/vihangp)
 
 ## Setup
 1. Create Conda Environment
