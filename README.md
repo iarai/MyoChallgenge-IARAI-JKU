@@ -18,6 +18,8 @@ Essentially, using a reward function based on the differences of a potential fun
 - [Luis Eduardo Ferro Diez](https://github.com/Ohtar10)
 - [Vihang Patil](https://github.com/vihangp)
 
+Special thanks to Prof. Sepp Hochreiter & Dr. Michael Kopp for their guidance and support.
+
 ## Setup
 1. Create Conda Environment
 ```bash
